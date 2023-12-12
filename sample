@@ -1,0 +1,28 @@
+[
+    {
+        "chapter" : ,
+        "chapterInfo" : [{
+            "verse" : ,
+            "verseInfo" : {
+                "name": "",
+                "textOriginal" : "",
+                "textEnglish" : "",
+                "audio" : "",
+                "translation" : "",
+                "purport" : ""
+                // "synonyms" : String
+             },
+        }],
+        "quiz" : [{
+            "questionNumber" : ,
+            "qtext" : "",
+            "options" : {
+                "option1" : "",
+                "option2" : "",
+                "option3" : "",
+                "option4" : "",
+                "correctoption" : "",
+            },
+        }],
+    },
+]
